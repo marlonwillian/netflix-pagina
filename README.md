@@ -1,2 +1,2 @@
 # Página da Netflix
- Página inicial da Netflix feito em 2021 no bootcamp da DIO, foi utilizado HMTL5, CSS3 e a biblioteca Owl Carrosel.
+ Este projeto é uma réplica da página inicial da Netflix, desenvolvida com HTML5, CSS e JavaScript. Usando a biblioteca Owl Carousel para navegar intuitivamente pelos conteúdos. A combinação de tecnologias faz uma interface responsiva e visualmente atraente, capturando a essência da plataforma original.
